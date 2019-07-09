@@ -2,8 +2,8 @@
 
 Primero crear un proyecto nuevo.
 
-```rails new expo
-
+```
+rails new expo
 ```
 
 Después nos dirigimos al Gemfile y añadimos la gema de delayed job.
