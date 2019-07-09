@@ -24,7 +24,8 @@ rails generate delayed_job:active_record
 
 Corremos las migraciones.
 
-```rails db:migrate
+```
+rails db:migrate
 ```
 
 En config/application.rb indicamos a rails el tipo de cola al que se mandan los jobs.
